@@ -1,0 +1,88 @@
+.headerr{
+   
+    background-image: url("./images.jfif");
+    /* background-attachment: scroll; */
+    color: aliceblue;
+    height: 80px;
+    position: sticky;
+    top: 0;
+
+}
+#main-title{
+    text-align: center;
+}
+.colors-class{
+    background-color: rgb(193, 167, 218);
+    border: black;
+}
+#color-blocks{
+    text-align: center;
+    margin: 50px;
+    position: sticky;
+
+}
+#test{
+    background-color: aqua;
+}
+
+.se1{
+    border: 3px solid;
+    color: chocolate;
+    border-style: dotted;
+}
+
+div {
+    margin: 12px;
+    padding: 8px;
+  }
+  hr{
+    margin: 12px;
+  }
+  
+  .border-style-1 {
+    border: 1px solid black;
+  }
+  .border-style-2 {
+    border-bottom: 1px solid red;
+    border-width: 8px;
+  }
+  .border-style-3 {
+    border: 1px solid gray;
+    border-radius: 50px;
+    background-color: aqua;
+  }
+  .border-style-4 {
+    background-color: #dcfdfe;
+    border-left: 6px solid #2196f3;
+    border-style: groove;
+  }
+#inside{
+    border: 3px  orange;
+    background-color: #dcfdfe;
+    display: inline;
+    border-style: solid dotted dashed;
+}
+a{
+    color: crimson;
+}
+a{
+    color: black;
+}
+#citys{
+    border: #2196f3 solid;
+    background-color: yellowgreen;
+}
+#cc{
+    margin-left: 600px;
+}
+#card{
+    border: 3px solid;
+    align-self: center;
+    height: 400px;
+    margin: 100px;
+    padding: 100px;
+}
+#incard{
+    border:20px solid blue;
+    height: 300px;
+}
